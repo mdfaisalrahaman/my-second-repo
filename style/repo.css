@@ -1,6 +1,8 @@
 .img{
     background-color: red;
     border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
 }
 .pic{
     width: 150px;
