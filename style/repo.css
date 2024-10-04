@@ -1,5 +1,6 @@
 .img{
     background-color: red;
+    border: 5px solid black;
 }
 .pic{
     width: 150px;
